@@ -1,0 +1,13 @@
+{
+  "author": "Paul Bradbury",
+  "dependencies": [],
+  "license": "Apache Version 2.0",
+  "name": "bradburp-apachedev",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "https://192.168.0.13/etc/puppetlabs/puppet/environments/production/modules",
+  "summary": "Installs, configures, and manages the apache service.",
+  "tags": [],
+  "version": "0.1.0"
+}

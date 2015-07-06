@@ -1,0 +1,15 @@
+{
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "manifests/init.pp": "3879c61584f43fcf8f81b1979cce14b3",
+  "manifests/install.pp": "19a23cea07c09858f0d37e174c2f765a",
+  "templates/httpd.conf.erb": "f5e7449c0f17bc856e86011cb5d152ba",
+  "files/httpd.conf_orig": "f5e7449c0f17bc856e86011cb5d152ba",
+  "manifests/config.pp": "f2c6a7d461208dc2de633e6e04dda078",
+  "README.markdown": "3b602bb5d11ab0e7af0998ca79587601",
+  "metadata.json": "d2bea1f18806f5bbd4a510159f5a95d2",
+  "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+  "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+  "manifests/service.pp": "41e77b4ab7937ee4dc8b0cdeef2d8133",
+  "manifests/params.pp": "07364c22a394f8181c97b3e930026051",
+  "tests/init.pp": "bd5c40b19abe1d7e175d4faf62f6a3bc"
+}
